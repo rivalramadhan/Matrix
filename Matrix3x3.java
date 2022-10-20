@@ -51,7 +51,7 @@ public class Matrix3x3 {
     }
     
     
-    //    proses pengurangan matrix dalam method
+    //    proses penjumlahan matrix dalam method
     private static int[] [] Penjumlahan (int [][] array_a2, int [][] array_b2){
         int row_a = array_a2.length;
         int column_a = array_a2[0].length;
